@@ -1,0 +1,6 @@
+{
+  "name": "StudiPlan - Asisten Belajar & Tugas Harian",
+  "description": "Aplikasi produktivitas pelajar untuk mengelola jadwal belajar, tugas harian, visualisasi progres, kalender interaktif, dan sistem poin motivasi dengan asisten pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
